@@ -1,6 +1,6 @@
 ## Bem Vindo ao meu GitHub.
 
-<div align="center">
+<div style="display: inline_block" align="center">
   <a href="https://github.com/caiosilvestre">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiosilvestre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
@@ -26,13 +26,7 @@
  ##
  
 <div style="display:flex;margin-left:10px;flex-direction:row;flex-wrap:nowrap"> 
-   <div style="margin-left:10px"> 
   <a href="https://www.instagram.com/caio.imperial/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    </div> 
-      <div style="margin-left:10px"> 
   <a href = "mailto:scaioimperial@gmai.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    </div> 
-      <div style="margin-left:10px"> 
   <a href="https://www.linkedin.com/in/caio-silvestre-imperial/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div> 
 </div>
