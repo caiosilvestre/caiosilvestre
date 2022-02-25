@@ -1,4 +1,4 @@
-## Bem Vindo ao meu github, tenha bom proveito, espera poder ajuda-lo na solução de problemas.
+## Bem Vindo ao meu GitHub.
 
 <div align="center">
   <a href="https://github.com/caiosilvestre">
